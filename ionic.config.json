@@ -1,7 +1,8 @@
 {
   "name": "CovidUpdates",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
