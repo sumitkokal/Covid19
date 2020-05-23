@@ -1,0 +1,7 @@
+{
+  "name": "CovidUpdates",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
